@@ -1,5 +1,7 @@
 ###### tags: `BW16`,`MAC`
 
+[![hackmd-github-sync-badge](https://hackmd.io/S_XToTfoTbmHgLuTzMu4PA/badge)](https://hackmd.io/S_XToTfoTbmHgLuTzMu4PA)
+
 # 背景檢查Zoom狀態並即時觸發Http指示燈
 
 * [Github](https://github.com/Chihhao/BW16_MAX7219_HTTP)
@@ -20,10 +22,10 @@
 ![](https://i.imgur.com/ATuyfCt.jpg)
 
 # BW16 Http指示燈
-* BW16
+* [BW16](https://www.amebaiot.com/zh/amebad-bw16-arduino-getting-started/)
 * 經典 Http Server 範例
-* U8g2 Library
-* 外殼 https://www.thingiverse.com/thing:3444779
+* [U8g2 Library](https://www.arduino.cc/reference/en/libraries/u8g2/)
+* [外殼](https://www.thingiverse.com/thing:3444779) 
 * 接線
 ```
 VCC - 5V
