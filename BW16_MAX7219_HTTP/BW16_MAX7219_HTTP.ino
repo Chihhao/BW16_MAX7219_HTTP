@@ -83,8 +83,9 @@ void checkWifi(){
     int iAgain = 0;
     while (status != WL_CONNECTED) {
         delay(1000);
-        if(++iAgain>5) {
+        if(++iAgain>10) {
           status = WiFi.begin(ssid, pass);
+          iAgain=0;
         }
     }
     
